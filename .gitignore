@@ -1,0 +1,4 @@
+# Cricsheet data (~600 MB extracted) - download it with the command in README.md
+data/
+__pycache__/
+*.pyc
